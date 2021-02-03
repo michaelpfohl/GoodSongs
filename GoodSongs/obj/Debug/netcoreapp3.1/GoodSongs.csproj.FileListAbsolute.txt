@@ -1,0 +1,12 @@
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.exe
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.deps.json
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.runtimeconfig.json
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.dll
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\bin\Debug\netcoreapp3.1\GoodSongs.pdb
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.dll
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.pdb
+C:\Users\rmpfo\source\repos\GoodSongs\GoodSongs\obj\Debug\netcoreapp3.1\GoodSongs.genruntimeconfig.cache
